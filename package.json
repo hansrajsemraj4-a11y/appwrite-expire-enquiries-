@@ -1,7 +1,7 @@
 {
   "name": "expire-enquiries",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "dependencies": {
     "node-appwrite": "^13.0.0"
